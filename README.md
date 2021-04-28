@@ -7,4 +7,4 @@
 
 # mod
 
-1. [Simpson's City MAP](https://piergiorgio-roveda.github.io/qgis2web-modder/mod/C160428-Simpson-s-City-Map/)
+1. [Simpson's City MAP](https://github.com/piergiorgio-roveda/qgis2web-modder/blob/main/mod/C160428-Simpson-s-City-Map/index.php)
