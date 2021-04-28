@@ -1,0 +1,40 @@
+
+#forth-cointainer {
+    bottom: 60px;
+    position: absolute;
+    padding-right: 0px;
+    }
+
+    #simpson-cointainer {
+    top: 0px;
+    position: absolute;
+    }
+
+
+    .navbar-fixed-side {
+    position: fixed;
+    }
+
+    .navbar-fixed-side .navbar-nav > li {
+    float: none;
+    }
+
+    .navbar.navbar, .navbar-default.navbar {
+    background-color: rgba(255, 255, 255, 0);
+    color: rgba(255, 255, 255, 0.84);
+    }
+
+    .btn-primary:not(.btn-link):not(.btn-flat) {
+        background-color: #FBCF08;
+        color: #000;
+    }
+
+    #buttonList{
+    bottom:20px;
+    position:absolute;
+    }
+
+
+    #map{
+    position: absolute;
+    }
